@@ -1,0 +1,24 @@
+
+streamlit
+
+# Data processing & ML
+pandas
+numpy
+scikit-learn
+joblib
+
+# NLP / Translation
+googletrans
+regex
+
+# Audio processing
+SpeechRecognition
+pydub
+
+# Image / Deepfake
+torch
+torchvision
+Pillow
+
+# HTTP requests
+requests
